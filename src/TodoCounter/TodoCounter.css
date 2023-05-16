@@ -1,0 +1,10 @@
+header h1 {
+    font-size: 60px;
+    font-weight: 600;
+    background-image: conic-gradient(#553c9a, #0ee9b2, #1edce6, #a48fdf);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    text-align: center;
+  }
+
